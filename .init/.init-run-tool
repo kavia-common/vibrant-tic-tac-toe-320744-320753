@@ -1,0 +1,4 @@
+{
+    "command": "PORT=<port> HOST=<host> BROWSER=none npm start",
+    "working_directory": "/home/kavia/workspace/code-generation/vibrant-tic-tac-toe-320744-320753/tic_tac_toe_frontend"
+}
